@@ -1,14 +1,15 @@
 {
-    "name": "package",
-    "version": "0.0.0",
-    "engines": {
-        "node": ">=0.10.0",
-        "npm": ">=1.1"
-    },
-    "dependencies": {
-        "express": "~3.4.7",
-        "express-train": "2.1.x",
-        "express-hbs": "0.1.4"
-    },
-    "main": "./app.js"
+  "name": "package",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.1"
+  },
+  "dependencies": {
+    "express": "~3.4.7",
+    "express-train": "2.1.x",
+    "express-hbs": "0.1.4",
+    "mongoose": "~3.8.8"
+  },
+  "main": "./app.js"
 }
